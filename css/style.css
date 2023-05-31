@@ -1,0 +1,56 @@
+/* untuk index	*/
+
+body{
+		background-image: url(../background/SUBB2-01.jpg);
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-position: center center;
+		background-attachment: fixed;
+		font-family: ariel;
+
+}
+table{
+	background-color: white;
+	opacity: 90%;
+	text-decoration: none;
+}
+h1{
+	
+	font-size: 50px;
+	font-weight: bold;
+	font-variant: small-caps;
+
+}
+
+.logout{
+	
+	text-decoration: none;
+	color: black;
+}
+
+.logout:hover{
+	color: black;
+	font-family: ariel;
+	font-size: 30px;
+}
+
+.tambah{
+	text-decoration: none;
+	color: black;
+}
+
+.update{
+	text-decoration: none;
+	color: black;
+}
+
+.hapus{
+	text-decoration: none;
+	color: black;
+}
+
+.regist{
+	text-decoration: none;
+	color: blue;
+	font-style: italic;
+}

@@ -1,0 +1,18 @@
+body{
+	background-image: url(../background/bola.jpg);
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-position: center;
+		background-attachment: fixed;
+		font-family: ariel;
+		text-decoration: none;
+
+}
+
+h1{
+	text-align: center;
+}
+
+.form{
+	text-align: center;
+}

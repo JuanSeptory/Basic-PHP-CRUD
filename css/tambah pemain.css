@@ -1,0 +1,11 @@
+body{
+	background-image: url(../background/SUBB2-01.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+	background-attachment: fixed;
+
+	font-family: ariel;
+	text-align: left;
+
+}
