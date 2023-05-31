@@ -5,6 +5,7 @@
 //parameter kedua  login sebagai admin
 //parameter ketiga password (kosong karna root)
 //parameter keempat databases yang digunakan
+// test komen
 $conn = mysqli_connect("localhost", "root", "", "phpdasar");
 
 
